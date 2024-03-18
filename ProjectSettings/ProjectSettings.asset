@@ -154,7 +154,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.Brad-s-FMP
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -911,7 +912,7 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 1
+  activeInputHandler: 2
   cloudProjectId: eff55347-fc62-4a6e-be63-4de8f3e8b4e7
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
